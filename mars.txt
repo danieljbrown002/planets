@@ -5,4 +5,8 @@ sa
 
 
 so what
+<<<<<<< HEAD
 my changes (DB)
+=======
+Brad made a mod here
+>>>>>>> a307fb38086cf751050d0671d9c183d13abf2790
